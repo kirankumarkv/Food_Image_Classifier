@@ -17,3 +17,5 @@ When you set  weights='imagenet', resnet152v2_weights_tf_dim_ordering_tf_kernels
 InceptionV3 pre-trained .h5 provides a better accuracy than resnet. It has a good balance between model size and accuracy, making it a suitable choice for smaller datasets or limited computational resources. It provides a accuracy of 58.67% 
 
 Further few shot classifier can perform well on the smaller dataset. 
+
+Given code Food_Classifier.ipynb contains a code to train for given food images. The resulting weight file is saved as model_weights.h5 file. 
