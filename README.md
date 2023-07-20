@@ -19,3 +19,5 @@ InceptionV3 pre-trained .h5 provides a better accuracy than resnet. It has a goo
 Further few shot classifier can perform well on the smaller dataset. 
 
 Given code Food_Classifier.ipynb contains a code to train for given food images. The resulting weight file is saved as model_weights.h5 file. 
+
+Code can be opened from Google Colaboratory and FoodImage from google drive can be shared with current folder. 
